@@ -1,5 +1,5 @@
 import os
-#from os import *
+from os import *
 
 print(os.getcwd())
 os.chdir('C:\\Users\\vdi-student\\Desktop\\nn')
